@@ -76,7 +76,7 @@ def run():
                                                                                     
                     ------------------ Made by NullSEC. Fuck skids --------------------
                     run this command: proxychains -q python3 <spam name>.py
-                    Discord: NullSEC#0001
+                    
                 
 
                 """)
